@@ -1,6 +1,6 @@
 # Email Marketing Campaign Analysis
 
-## Key Findings: The Data-Driven Story
+## Key Findings: ( I have attached the visualization )
 
 When I first started analyzing this email marketing campaign data, I expected to find simple patterns - perhaps just a few obvious factors affecting whether people clicked on links. What I discovered instead was a complex, interconnected story of user behavior that reveals powerful insights about how people engage with marketing emails.
 
